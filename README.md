@@ -31,5 +31,5 @@ What impact resulted from increasing or decreasing either or both of the SMA win
 
 Both it depends on the model your running and training window.
 
-Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm? The new Random Forest model outperformed the Logistic Regression the baseline models.
+Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm? The new Random Forest model outperformed both the Logistic Regression the Baseline Models.
 
